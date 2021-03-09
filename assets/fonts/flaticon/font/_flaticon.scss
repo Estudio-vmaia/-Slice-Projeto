@@ -1,0 +1,441 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 18/03/2018 20:54
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-charter:before { content: "\f100"; }
+.flaticon-timing-belt:before { content: "\f101"; }
+.flaticon-suspension:before { content: "\f102"; }
+.flaticon-steering-wheel-2:before { content: "\f103"; }
+.flaticon-spark-plug:before { content: "\f104"; }
+.flaticon-lamp:before { content: "\f105"; }
+.flaticon-generator:before { content: "\f106"; }
+.flaticon-filter-1:before { content: "\f107"; }
+.flaticon-clutch:before { content: "\f108"; }
+.flaticon-disc-brake-1:before { content: "\f109"; }
+.flaticon-windshield:before { content: "\f10a"; }
+.flaticon-wheel:before { content: "\f10b"; }
+.flaticon-warning:before { content: "\f10c"; }
+.flaticon-toolbox-1:before { content: "\f10d"; }
+.flaticon-toolbox:before { content: "\f10e"; }
+.flaticon-stop:before { content: "\f10f"; }
+.flaticon-steering-wheel-1:before { content: "\f110"; }
+.flaticon-speed-limit-4:before { content: "\f111"; }
+.flaticon-speed-limit-3:before { content: "\f112"; }
+.flaticon-speed-limit-2:before { content: "\f113"; }
+.flaticon-speed-limit-1:before { content: "\f114"; }
+.flaticon-speed-limit:before { content: "\f115"; }
+.flaticon-gearbox-5:before { content: "\f116"; }
+.flaticon-gearbox-4:before { content: "\f117"; }
+.flaticon-repair-1:before { content: "\f118"; }
+.flaticon-repair:before { content: "\f119"; }
+.flaticon-yield:before { content: "\f11a"; }
+.flaticon-filter:before { content: "\f11b"; }
+.flaticon-oil:before { content: "\f11c"; }
+.flaticon-wrench-3:before { content: "\f11d"; }
+.flaticon-wrench-2:before { content: "\f11e"; }
+.flaticon-wrench-1:before { content: "\f11f"; }
+.flaticon-traffic-light:before { content: "\f120"; }
+.flaticon-highway:before { content: "\f121"; }
+.flaticon-hammer-4:before { content: "\f122"; }
+.flaticon-hammer-3:before { content: "\f123"; }
+.flaticon-go:before { content: "\f124"; }
+.flaticon-gearbox-3:before { content: "\f125"; }
+.flaticon-gearbox-2:before { content: "\f126"; }
+.flaticon-pharmacy:before { content: "\f127"; }
+.flaticon-dashboard-1:before { content: "\f128"; }
+.flaticon-car-wash:before { content: "\f129"; }
+.flaticon-gearbox-1:before { content: "\f12a"; }
+.flaticon-car-door-1:before { content: "\f12b"; }
+.flaticon-dashboard:before { content: "\f12c"; }
+.flaticon-battery-2:before { content: "\f12d"; }
+.flaticon-air-conditioner-1:before { content: "\f12e"; }
+.flaticon-battery-1:before { content: "\f12f"; }
+.flaticon-garage-1:before { content: "\f130"; }
+.flaticon-air-conditioner:before { content: "\f131"; }
+.flaticon-radiator:before { content: "\f132"; }
+.flaticon-air-freshener:before { content: "\f133"; }
+.flaticon-jerrycan:before { content: "\f134"; }
+.flaticon-brake-disc:before { content: "\f135"; }
+.flaticon-parking:before { content: "\f136"; }
+.flaticon-gearbox:before { content: "\f137"; }
+.flaticon-car-door:before { content: "\f138"; }
+.flaticon-steering-wheel:before { content: "\f139"; }
+.flaticon-battery:before { content: "\f13a"; }
+.flaticon-truck-3:before { content: "\f13b"; }
+.flaticon-monster-truck:before { content: "\f13c"; }
+.flaticon-motorcycle:before { content: "\f13d"; }
+.flaticon-gloves:before { content: "\f13e"; }
+.flaticon-helmet-2:before { content: "\f13f"; }
+.flaticon-quad-1:before { content: "\f140"; }
+.flaticon-helmet-1:before { content: "\f141"; }
+.flaticon-helmet:before { content: "\f142"; }
+.flaticon-fuel-3:before { content: "\f143"; }
+.flaticon-fuel-2:before { content: "\f144"; }
+.flaticon-tool:before { content: "\f145"; }
+.flaticon-transport-3:before { content: "\f146"; }
+.flaticon-rim:before { content: "\f147"; }
+.flaticon-disc-brake:before { content: "\f148"; }
+.flaticon-transport-2:before { content: "\f149"; }
+.flaticon-danger-8:before { content: "\f14a"; }
+.flaticon-power:before { content: "\f14b"; }
+.flaticon-tools-2:before { content: "\f14c"; }
+.flaticon-speedometer-1:before { content: "\f14d"; }
+.flaticon-speedometer:before { content: "\f14e"; }
+.flaticon-signaling-4:before { content: "\f14f"; }
+.flaticon-signaling-3:before { content: "\f150"; }
+.flaticon-signaling-2:before { content: "\f151"; }
+.flaticon-signaling-1:before { content: "\f152"; }
+.flaticon-signaling:before { content: "\f153"; }
+.flaticon-caution-1:before { content: "\f154"; }
+.flaticon-caution:before { content: "\f155"; }
+.flaticon-vehicle-3:before { content: "\f156"; }
+.flaticon-danger-7:before { content: "\f157"; }
+.flaticon-business:before { content: "\f158"; }
+.flaticon-construction-1:before { content: "\f159"; }
+.flaticon-screwdriver-1:before { content: "\f15a"; }
+.flaticon-screwdriver:before { content: "\f15b"; }
+.flaticon-danger-6:before { content: "\f15c"; }
+.flaticon-signs-2:before { content: "\f15d"; }
+.flaticon-danger-5:before { content: "\f15e"; }
+.flaticon-danger-4:before { content: "\f15f"; }
+.flaticon-danger-3:before { content: "\f160"; }
+.flaticon-danger-2:before { content: "\f161"; }
+.flaticon-construction:before { content: "\f162"; }
+.flaticon-transportation:before { content: "\f163"; }
+.flaticon-pickup:before { content: "\f164"; }
+.flaticon-paint:before { content: "\f165"; }
+.flaticon-arrow:before { content: "\f166"; }
+.flaticon-one-way:before { content: "\f167"; }
+.flaticon-danger-1:before { content: "\f168"; }
+.flaticon-road:before { content: "\f169"; }
+.flaticon-signs-1:before { content: "\f16a"; }
+.flaticon-mark:before { content: "\f16b"; }
+.flaticon-clove:before { content: "\f16c"; }
+.flaticon-wrench:before { content: "\f16d"; }
+.flaticon-mechanics:before { content: "\f16e"; }
+.flaticon-lock:before { content: "\f16f"; }
+.flaticon-ice:before { content: "\f170"; }
+.flaticon-medical:before { content: "\f171"; }
+.flaticon-technology-1:before { content: "\f172"; }
+.flaticon-car-28:before { content: "\f173"; }
+.flaticon-hammer-1:before { content: "\f174"; }
+.flaticon-hammer:before { content: "\f175"; }
+.flaticon-gasoline:before { content: "\f176"; }
+.flaticon-vehicle-2:before { content: "\f177"; }
+.flaticon-vehicle-1:before { content: "\f178"; }
+.flaticon-fuel-1:before { content: "\f179"; }
+.flaticon-light-1:before { content: "\f17a"; }
+.flaticon-filters:before { content: "\f17b"; }
+.flaticon-technology:before { content: "\f17c"; }
+.flaticon-arrows:before { content: "\f17d"; }
+.flaticon-tools-1:before { content: "\f17e"; }
+.flaticon-fuel:before { content: "\f17f"; }
+.flaticon-kitchen-utensils:before { content: "\f180"; }
+.flaticon-signs:before { content: "\f181"; }
+.flaticon-transport-1:before { content: "\f182"; }
+.flaticon-transport:before { content: "\f183"; }
+.flaticon-light:before { content: "\f184"; }
+.flaticon-vehicle:before { content: "\f185"; }
+.flaticon-garage:before { content: "\f186"; }
+.flaticon-car-27:before { content: "\f187"; }
+.flaticon-tools:before { content: "\f188"; }
+.flaticon-danger:before { content: "\f189"; }
+.flaticon-horn:before { content: "\f18a"; }
+.flaticon-van-1:before { content: "\f18b"; }
+.flaticon-car-26:before { content: "\f18c"; }
+.flaticon-car-25:before { content: "\f18d"; }
+.flaticon-car-24:before { content: "\f18e"; }
+.flaticon-car-23:before { content: "\f18f"; }
+.flaticon-car-22:before { content: "\f190"; }
+.flaticon-car-21:before { content: "\f191"; }
+.flaticon-car-20:before { content: "\f192"; }
+.flaticon-car-19:before { content: "\f193"; }
+.flaticon-car-18:before { content: "\f194"; }
+.flaticon-car-17:before { content: "\f195"; }
+.flaticon-car-16:before { content: "\f196"; }
+.flaticon-car-15:before { content: "\f197"; }
+.flaticon-car-14:before { content: "\f198"; }
+.flaticon-car-13:before { content: "\f199"; }
+.flaticon-car-12:before { content: "\f19a"; }
+.flaticon-car-11:before { content: "\f19b"; }
+.flaticon-car-10:before { content: "\f19c"; }
+.flaticon-car-9:before { content: "\f19d"; }
+.flaticon-formula-1:before { content: "\f19e"; }
+.flaticon-car-8:before { content: "\f19f"; }
+.flaticon-car-7:before { content: "\f1a0"; }
+.flaticon-car-6:before { content: "\f1a1"; }
+.flaticon-buggy:before { content: "\f1a2"; }
+.flaticon-race-car:before { content: "\f1a3"; }
+.flaticon-cars:before { content: "\f1a4"; }
+.flaticon-car-5:before { content: "\f1a5"; }
+.flaticon-car-4:before { content: "\f1a6"; }
+.flaticon-mustang:before { content: "\f1a7"; }
+.flaticon-car-3:before { content: "\f1a8"; }
+.flaticon-skateboard:before { content: "\f1a9"; }
+.flaticon-quad:before { content: "\f1aa"; }
+.flaticon-golf-cart:before { content: "\f1ab"; }
+.flaticon-sailing-ship:before { content: "\f1ac"; }
+.flaticon-tanker-truck:before { content: "\f1ad"; }
+.flaticon-tandem:before { content: "\f1ae"; }
+.flaticon-van:before { content: "\f1af"; }
+.flaticon-car-2:before { content: "\f1b0"; }
+.flaticon-car-1:before { content: "\f1b1"; }
+.flaticon-crane:before { content: "\f1b2"; }
+.flaticon-taxi:before { content: "\f1b3"; }
+.flaticon-airplane-1:before { content: "\f1b4"; }
+.flaticon-trailer:before { content: "\f1b5"; }
+.flaticon-truck-2:before { content: "\f1b6"; }
+.flaticon-dump-truck:before { content: "\f1b7"; }
+.flaticon-segway:before { content: "\f1b8"; }
+.flaticon-airplane:before { content: "\f1b9"; }
+.flaticon-helicopter:before { content: "\f1ba"; }
+.flaticon-bus:before { content: "\f1bb"; }
+.flaticon-jet-ski:before { content: "\f1bc"; }
+.flaticon-caravan:before { content: "\f1bd"; }
+.flaticon-ambulance:before { content: "\f1be"; }
+.flaticon-ship:before { content: "\f1bf"; }
+.flaticon-volkswagen:before { content: "\f1c0"; }
+.flaticon-motocross:before { content: "\f1c1"; }
+.flaticon-limousine:before { content: "\f1c2"; }
+.flaticon-truck-1:before { content: "\f1c3"; }
+.flaticon-porsche:before { content: "\f1c4"; }
+.flaticon-car:before { content: "\f1c5"; }
+.flaticon-truck:before { content: "\f1c6"; }
+.flaticon-amphibian-car:before { content: "\f1c7"; }
+.flaticon-hammer-2:before { content: "\f1c8"; }
+    
+    $font-Flaticon-charter: "\f100";
+    $font-Flaticon-timing-belt: "\f101";
+    $font-Flaticon-suspension: "\f102";
+    $font-Flaticon-steering-wheel-2: "\f103";
+    $font-Flaticon-spark-plug: "\f104";
+    $font-Flaticon-lamp: "\f105";
+    $font-Flaticon-generator: "\f106";
+    $font-Flaticon-filter-1: "\f107";
+    $font-Flaticon-clutch: "\f108";
+    $font-Flaticon-disc-brake-1: "\f109";
+    $font-Flaticon-windshield: "\f10a";
+    $font-Flaticon-wheel: "\f10b";
+    $font-Flaticon-warning: "\f10c";
+    $font-Flaticon-toolbox-1: "\f10d";
+    $font-Flaticon-toolbox: "\f10e";
+    $font-Flaticon-stop: "\f10f";
+    $font-Flaticon-steering-wheel-1: "\f110";
+    $font-Flaticon-speed-limit-4: "\f111";
+    $font-Flaticon-speed-limit-3: "\f112";
+    $font-Flaticon-speed-limit-2: "\f113";
+    $font-Flaticon-speed-limit-1: "\f114";
+    $font-Flaticon-speed-limit: "\f115";
+    $font-Flaticon-gearbox-5: "\f116";
+    $font-Flaticon-gearbox-4: "\f117";
+    $font-Flaticon-repair-1: "\f118";
+    $font-Flaticon-repair: "\f119";
+    $font-Flaticon-yield: "\f11a";
+    $font-Flaticon-filter: "\f11b";
+    $font-Flaticon-oil: "\f11c";
+    $font-Flaticon-wrench-3: "\f11d";
+    $font-Flaticon-wrench-2: "\f11e";
+    $font-Flaticon-wrench-1: "\f11f";
+    $font-Flaticon-traffic-light: "\f120";
+    $font-Flaticon-highway: "\f121";
+    $font-Flaticon-hammer-4: "\f122";
+    $font-Flaticon-hammer-3: "\f123";
+    $font-Flaticon-go: "\f124";
+    $font-Flaticon-gearbox-3: "\f125";
+    $font-Flaticon-gearbox-2: "\f126";
+    $font-Flaticon-pharmacy: "\f127";
+    $font-Flaticon-dashboard-1: "\f128";
+    $font-Flaticon-car-wash: "\f129";
+    $font-Flaticon-gearbox-1: "\f12a";
+    $font-Flaticon-car-door-1: "\f12b";
+    $font-Flaticon-dashboard: "\f12c";
+    $font-Flaticon-battery-2: "\f12d";
+    $font-Flaticon-air-conditioner-1: "\f12e";
+    $font-Flaticon-battery-1: "\f12f";
+    $font-Flaticon-garage-1: "\f130";
+    $font-Flaticon-air-conditioner: "\f131";
+    $font-Flaticon-radiator: "\f132";
+    $font-Flaticon-air-freshener: "\f133";
+    $font-Flaticon-jerrycan: "\f134";
+    $font-Flaticon-brake-disc: "\f135";
+    $font-Flaticon-parking: "\f136";
+    $font-Flaticon-gearbox: "\f137";
+    $font-Flaticon-car-door: "\f138";
+    $font-Flaticon-steering-wheel: "\f139";
+    $font-Flaticon-battery: "\f13a";
+    $font-Flaticon-truck-3: "\f13b";
+    $font-Flaticon-monster-truck: "\f13c";
+    $font-Flaticon-motorcycle: "\f13d";
+    $font-Flaticon-gloves: "\f13e";
+    $font-Flaticon-helmet-2: "\f13f";
+    $font-Flaticon-quad-1: "\f140";
+    $font-Flaticon-helmet-1: "\f141";
+    $font-Flaticon-helmet: "\f142";
+    $font-Flaticon-fuel-3: "\f143";
+    $font-Flaticon-fuel-2: "\f144";
+    $font-Flaticon-tool: "\f145";
+    $font-Flaticon-transport-3: "\f146";
+    $font-Flaticon-rim: "\f147";
+    $font-Flaticon-disc-brake: "\f148";
+    $font-Flaticon-transport-2: "\f149";
+    $font-Flaticon-danger-8: "\f14a";
+    $font-Flaticon-power: "\f14b";
+    $font-Flaticon-tools-2: "\f14c";
+    $font-Flaticon-speedometer-1: "\f14d";
+    $font-Flaticon-speedometer: "\f14e";
+    $font-Flaticon-signaling-4: "\f14f";
+    $font-Flaticon-signaling-3: "\f150";
+    $font-Flaticon-signaling-2: "\f151";
+    $font-Flaticon-signaling-1: "\f152";
+    $font-Flaticon-signaling: "\f153";
+    $font-Flaticon-caution-1: "\f154";
+    $font-Flaticon-caution: "\f155";
+    $font-Flaticon-vehicle-3: "\f156";
+    $font-Flaticon-danger-7: "\f157";
+    $font-Flaticon-business: "\f158";
+    $font-Flaticon-construction-1: "\f159";
+    $font-Flaticon-screwdriver-1: "\f15a";
+    $font-Flaticon-screwdriver: "\f15b";
+    $font-Flaticon-danger-6: "\f15c";
+    $font-Flaticon-signs-2: "\f15d";
+    $font-Flaticon-danger-5: "\f15e";
+    $font-Flaticon-danger-4: "\f15f";
+    $font-Flaticon-danger-3: "\f160";
+    $font-Flaticon-danger-2: "\f161";
+    $font-Flaticon-construction: "\f162";
+    $font-Flaticon-transportation: "\f163";
+    $font-Flaticon-pickup: "\f164";
+    $font-Flaticon-paint: "\f165";
+    $font-Flaticon-arrow: "\f166";
+    $font-Flaticon-one-way: "\f167";
+    $font-Flaticon-danger-1: "\f168";
+    $font-Flaticon-road: "\f169";
+    $font-Flaticon-signs-1: "\f16a";
+    $font-Flaticon-mark: "\f16b";
+    $font-Flaticon-clove: "\f16c";
+    $font-Flaticon-wrench: "\f16d";
+    $font-Flaticon-mechanics: "\f16e";
+    $font-Flaticon-lock: "\f16f";
+    $font-Flaticon-ice: "\f170";
+    $font-Flaticon-medical: "\f171";
+    $font-Flaticon-technology-1: "\f172";
+    $font-Flaticon-car-28: "\f173";
+    $font-Flaticon-hammer-1: "\f174";
+    $font-Flaticon-hammer: "\f175";
+    $font-Flaticon-gasoline: "\f176";
+    $font-Flaticon-vehicle-2: "\f177";
+    $font-Flaticon-vehicle-1: "\f178";
+    $font-Flaticon-fuel-1: "\f179";
+    $font-Flaticon-light-1: "\f17a";
+    $font-Flaticon-filters: "\f17b";
+    $font-Flaticon-technology: "\f17c";
+    $font-Flaticon-arrows: "\f17d";
+    $font-Flaticon-tools-1: "\f17e";
+    $font-Flaticon-fuel: "\f17f";
+    $font-Flaticon-kitchen-utensils: "\f180";
+    $font-Flaticon-signs: "\f181";
+    $font-Flaticon-transport-1: "\f182";
+    $font-Flaticon-transport: "\f183";
+    $font-Flaticon-light: "\f184";
+    $font-Flaticon-vehicle: "\f185";
+    $font-Flaticon-garage: "\f186";
+    $font-Flaticon-car-27: "\f187";
+    $font-Flaticon-tools: "\f188";
+    $font-Flaticon-danger: "\f189";
+    $font-Flaticon-horn: "\f18a";
+    $font-Flaticon-van-1: "\f18b";
+    $font-Flaticon-car-26: "\f18c";
+    $font-Flaticon-car-25: "\f18d";
+    $font-Flaticon-car-24: "\f18e";
+    $font-Flaticon-car-23: "\f18f";
+    $font-Flaticon-car-22: "\f190";
+    $font-Flaticon-car-21: "\f191";
+    $font-Flaticon-car-20: "\f192";
+    $font-Flaticon-car-19: "\f193";
+    $font-Flaticon-car-18: "\f194";
+    $font-Flaticon-car-17: "\f195";
+    $font-Flaticon-car-16: "\f196";
+    $font-Flaticon-car-15: "\f197";
+    $font-Flaticon-car-14: "\f198";
+    $font-Flaticon-car-13: "\f199";
+    $font-Flaticon-car-12: "\f19a";
+    $font-Flaticon-car-11: "\f19b";
+    $font-Flaticon-car-10: "\f19c";
+    $font-Flaticon-car-9: "\f19d";
+    $font-Flaticon-formula-1: "\f19e";
+    $font-Flaticon-car-8: "\f19f";
+    $font-Flaticon-car-7: "\f1a0";
+    $font-Flaticon-car-6: "\f1a1";
+    $font-Flaticon-buggy: "\f1a2";
+    $font-Flaticon-race-car: "\f1a3";
+    $font-Flaticon-cars: "\f1a4";
+    $font-Flaticon-car-5: "\f1a5";
+    $font-Flaticon-car-4: "\f1a6";
+    $font-Flaticon-mustang: "\f1a7";
+    $font-Flaticon-car-3: "\f1a8";
+    $font-Flaticon-skateboard: "\f1a9";
+    $font-Flaticon-quad: "\f1aa";
+    $font-Flaticon-golf-cart: "\f1ab";
+    $font-Flaticon-sailing-ship: "\f1ac";
+    $font-Flaticon-tanker-truck: "\f1ad";
+    $font-Flaticon-tandem: "\f1ae";
+    $font-Flaticon-van: "\f1af";
+    $font-Flaticon-car-2: "\f1b0";
+    $font-Flaticon-car-1: "\f1b1";
+    $font-Flaticon-crane: "\f1b2";
+    $font-Flaticon-taxi: "\f1b3";
+    $font-Flaticon-airplane-1: "\f1b4";
+    $font-Flaticon-trailer: "\f1b5";
+    $font-Flaticon-truck-2: "\f1b6";
+    $font-Flaticon-dump-truck: "\f1b7";
+    $font-Flaticon-segway: "\f1b8";
+    $font-Flaticon-airplane: "\f1b9";
+    $font-Flaticon-helicopter: "\f1ba";
+    $font-Flaticon-bus: "\f1bb";
+    $font-Flaticon-jet-ski: "\f1bc";
+    $font-Flaticon-caravan: "\f1bd";
+    $font-Flaticon-ambulance: "\f1be";
+    $font-Flaticon-ship: "\f1bf";
+    $font-Flaticon-volkswagen: "\f1c0";
+    $font-Flaticon-motocross: "\f1c1";
+    $font-Flaticon-limousine: "\f1c2";
+    $font-Flaticon-truck-1: "\f1c3";
+    $font-Flaticon-porsche: "\f1c4";
+    $font-Flaticon-car: "\f1c5";
+    $font-Flaticon-truck: "\f1c6";
+    $font-Flaticon-amphibian-car: "\f1c7";
+    $font-Flaticon-hammer-2: "\f1c8";
